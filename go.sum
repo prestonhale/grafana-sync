@@ -294,6 +294,10 @@ github.com/posener/complete v1.1.1/go.mod h1:em0nMJCgc9GFtwrmVmEMR/ZL6WyhyjMBndr
 github.com/posener/complete v1.2.3/go.mod h1:WZIdtGGp+qx0sLrYKtIRAruyNpv6hFCicSgv7Sy7s/s=
 github.com/prestonhale/sdk v0.0.0-20211220201350-966b3088eec9 h1:gCoNTOzvnrlxYNqzmOun9sRXRYygD7hG1wNT0SoVMw0=
 github.com/prestonhale/sdk v0.0.0-20211220201350-966b3088eec9/go.mod h1:AHHlOEv1+GGQ3ktHMlhuTUwo3zljV3QJbC0+8o2kn+4=
+github.com/prestonhale/sdk v0.10.0 h1:40ObuJj9SuR7SIzMNvNN1DG9xwbpah49KRO27Ip3aeY=
+github.com/prestonhale/sdk v0.10.0/go.mod h1:AHHlOEv1+GGQ3ktHMlhuTUwo3zljV3QJbC0+8o2kn+4=
+github.com/prestonhale/sdk v0.11.0 h1:uHsHPuszHOi4NQEVAI5RqftodiaJFdZxToBdm68zLiI=
+github.com/prestonhale/sdk v0.11.0/go.mod h1:AHHlOEv1+GGQ3ktHMlhuTUwo3zljV3QJbC0+8o2kn+4=
 github.com/prometheus/client_golang v0.9.1/go.mod h1:7SWBe2y4D6OKWSNQJUaRYU/AaXPKyh/dDVn+NZz0KFw=
 github.com/prometheus/client_golang v1.0.0/go.mod h1:db9x61etRT2tGnBNRi70OPL5FsnadC4Ky3P0J6CfImo=
 github.com/prometheus/client_golang v1.4.0/go.mod h1:e9GMxYsXl05ICDXkRhurwBS4Q3OK1iX/F2sw+iXX5zU=
